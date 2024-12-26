@@ -1,0 +1,43 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.aval-car{
+}
+.code{
+    color: #6200ff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    font-size: xx-large;
+
+}
+.aval-car :hover {
+    color: aqua;
+    
+}
+.help {
+    color: rebeccapurple;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    font-size: xx-large;
+}
+.for {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    font-size: xx-large;
+}
+.download{
+    color: #6200ff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.download :hover {
+    color: aqua;
+}
